@@ -1,0 +1,5 @@
+{
+  "name": "SaaS Metrics Dashboard",
+  "description": "Gestão de indicadores SaaS com análise de churn, MRR e dashboard analítico.",
+  "requestFramePermissions": []
+}
